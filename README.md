@@ -66,7 +66,6 @@ For a dataset, if `root_path` is not specified, it is `materials/{DATASET_NAME}`
 For a model, to load it from a specific saving file, change `load_encoder` or `load` to the corresponding path.
 `load_encoder` refers to only loading its `.encoder` part.
 
-In configs for `train_meta.py`, both `tval_dataset` and `val_dataset` are validation datasets, while `max-va.pth` refers to the one with best performance in `val_dataset`.
 
 
 ### Acknowledgment
