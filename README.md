@@ -2,7 +2,7 @@
 
 This repository contains the code for Better Generalized Few-Shot Learning \\ Despite No Base Data
 
-<img src="https://github.com/anonymous-14518/zero-base-GFSL/blob/main/figure_concept.pdf" width="600">
+<img src="https://github.com/anonymous-14518/zero-base-GFSL/blob/main/zero_base_GFSL_concept.png" width="600">
 
 
 
