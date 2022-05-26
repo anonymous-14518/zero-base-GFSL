@@ -1,8 +1,8 @@
 # Few-Shot Meta-Baseline
 
-This repository contains the code for Better Generalized Few-Shot Learning \\ Despite No Base Data
+This repository contains the code for Better Generalized Few-Shot Learning Despite No Base Data
 
-<img src="https://github.com/anonymous-14518/zero-base-GFSL/blob/main/zero_base_GFSL_concept.png" width="1200">
+<img src="https://github.com/anonymous-14518/zero-base-GFSL/blob/main/zero_base_GFSL_concept.png" width="900">
 
 
 
