@@ -71,13 +71,7 @@ In configs for `train_classifier.py`, `fs_dataset` refers to the dataset for eva
 In configs for `train_meta.py`, both `tval_dataset` and `val_dataset` are validation datasets, while `max-va.pth` refers to the one with best performance in `val_dataset`.
 
 
-### Citation
-```
-@inproceedings{chen2021meta,
-  title={Meta-Baseline: Exploring Simple Meta-Learning for Few-Shot Learning},
-  author={Chen, Yinbo and Liu, Zhuang and Xu, Huijuan and Darrell, Trevor and Wang, Xiaolong},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={9062--9071},
-  year={2021}
-}
-```
+### Acknowledgment
+
+Our code is based on the implementations of [Meta-Baseline](https://github.com/yinboc/few-shot-meta-baseline)
+
