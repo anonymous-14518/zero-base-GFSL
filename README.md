@@ -1,4 +1,4 @@
-# Few-Shot Meta-Baseline
+# Zero-Base GFSL
 
 This repository contains the code for Better Generalized Few-Shot Learning Despite No Base Data
 
